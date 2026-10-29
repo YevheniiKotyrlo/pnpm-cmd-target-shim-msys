@@ -1,0 +1,7 @@
+{
+  "name": "tool-pkg",
+  "version": "1.0.0",
+  "bin": {
+    "tool": "tool.cmd"
+  }
+}

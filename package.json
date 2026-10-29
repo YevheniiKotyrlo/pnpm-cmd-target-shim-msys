@@ -1,0 +1,7 @@
+{
+  "name": "pnpm-cmd-target-shim-msys",
+  "private": true,
+  "dependencies": {
+    "tool-pkg": "file:tool-pkg"
+  }
+}
